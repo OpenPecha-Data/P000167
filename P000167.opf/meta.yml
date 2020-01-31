@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །སེམས་བསྐྱེད་པའི་ཆོ་ག་མདོ་ཙམ་དུ་བྱས་པ། །
+  authors:
+  - མཛད་པ་པོ། བླ་མ་དམ་པ་བསོོད་ནམས་རྒྱལ་མཚན།
+  sku: IBA-SG-05-1
+  layers:
+  - book_title
+  - author
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Short Ritual for Bestowing the Bodhisattva Vow
+    bo: སེམས་བསྐྱེད་པའི་ཆོ་ག་མདོ་ཙམ་བྱས་པ།
+  collection:
+    en: IBA Sonam Gyaltsen Series–  Book 5
+    bo: བསོོད་ནམས་རྒྱལ་མཚན་རྩོམ་བྲིས།–  དེབ། ༥
+  author:
+    en: Lama Dampa Sonam Gyaltsen
+    bo: བླ་མ་དམ་པ་བསོོད་ནམས་རྒྱལ་མཚན།
+  pusblisher:
+    en: IBA Publications
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་།
+  sku: IBA-SG-05-1
+  category:
+    en: Bodhichitta
+    bo: བྱང་ཆུབ་ཀྱི་སེམས།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: IBA-SG-05-1.epub
+  description:
+    en: The concise liturgy of generating the Engaging Bodhicitta.
+    bo: ཐེག་ཆེན་གྱི་འཇུག་པ་སེམས་བསྐྱེད་དང་དེ་བསྐྱེད་བའི་རྒྱུ་སྐོར།
