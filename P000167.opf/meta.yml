@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000167
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སེམས་བསྐྱེད་པའི་ཆོ་ག་མདོ་ཙམ་དུ་བྱས་པ། །
   authors:
   - མཛད་པ་པོ། བླ་མ་དམ་པ་བསོོད་ནམས་རྒྱལ་མཚན།
-  sku: IBA-SG-05-1
   layers:
   - book_title
   - author
   - quotation
   - sabche
+  id: IBA-SG-05-1
 web_metadata:
   title:
     en: A Short Ritual for Bestowing the Bodhisattva Vow
